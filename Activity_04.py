@@ -1,4 +1,4 @@
 a = int(input("first number: "))
 b = int(input("second number: "))
 c = a + b
-print("sum = %d\n"%(c))
+print("%d + %d = %d\n"%(a,b,c))
